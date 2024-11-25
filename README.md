@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityap700&label=Profile%20views&color=0e75b6&style=flat" alt="adityap700" /> </p>
 
-- 🌱 I’m currently learning **CSS,JS,Python**
+- 🌱 I’m currently learning **Python,Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **GSSoC**
 
 - 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **HTML,C++**
 
 - 📫 How to reach me **adityaa32078@gmail.com**
 
