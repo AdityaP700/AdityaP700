@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **GSSoC**
+- 👯 I’m looking to collaborate on **GSoC**
 
 - 🤝 I’m looking for help with **Web Development**
 
