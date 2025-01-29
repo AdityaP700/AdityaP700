@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/adityapat_?style=social)](https://twitter.com/adityapat_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-pattanayak-6b303b267)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/aditya_texz/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown)](https://www.codechef.com/users/adityap700)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/Adi_texg)
 
 ## 🚀 About Me
 
