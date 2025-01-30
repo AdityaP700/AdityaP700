@@ -47,12 +47,6 @@ me.say_hi()
 </p>
 
 ---
-## 🏆 Open Source Achievements
-
-### Hacktoberfest Badges
-
-[![An image of @adityap700's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityap700)](https://holopin.io/@adityap700)
-
 
 
 ### 📊 Contribution Metrics
