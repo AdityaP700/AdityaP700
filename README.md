@@ -43,12 +43,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityap700&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌟 Contribution Graph
+## 📈 Contribution Graph & Activities
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adityap700&bg_color=1a1b27&color=ffffff&line=38a0ff&point=37f7c0&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityap700&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+![](https://github-profile-trophy.vercel.app/?username=adityap700&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+
 </div>
 
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 ## 🔥 Pull Request Stats
 
 <div align="center">
