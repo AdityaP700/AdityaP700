@@ -66,12 +66,6 @@ me.say_hi()
   [![Active Contributor](https://img.shields.io/badge/Active-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/adityap700)
   
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks:
