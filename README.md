@@ -107,9 +107,6 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![](https://github-profile-trophy.vercel.app/?username=adityap700&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 
 </div>
 
