@@ -8,14 +8,70 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/aditya_texz/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/Adi_texg)
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 🌱 Currently learning **Python** and **Ruby on Rails**
-- 💡 Interested in contributing to **GSoC**
-- 🌐 Looking for help with **Web Development**
-- 🐻‍❄️ Fun fact: **I think I am a Polar Bear**
-- 📫 Reach me at: **adityaa32078@gmail.com**
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Aditya Pattanayak"
+        self.role = "Software Developer"
+        self.location = "India 🇮🇳"
+        self.learning = ["Python 🐍", "Ruby on Rails 🛤️"]
+        self.interests = ["Open Source 🌟", "Web Development 🌐", "GSoC 🚀"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's craft something amazing together!")
 
+me = SoftwareDeveloper()
+me.say_hi()
+```
+
+### 🎯 Quick Facts
+
+- 🔭 I'm currently working on **building my development skills**
+- 🌱 Learning the magic of **Python** and **Ruby on Rails** 
+- 💡 Aspiring to contribute to **Google Summer of Code**
+- 🌐 Exploring the vast world of **Web Development**
+- 🎮 When I'm not coding, you'll find me **hibernating like a polar bear** 🐻‍❄️
+- 🤝 Open to collaborating on **interesting projects**
+
+### 📫 Let's Connect!
+
+<p>
+  <a href="mailto:adityaa32078@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/aditya0077060">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+## 🏆 Open Source Achievements
+
+### Hacktoberfest Badges
+
+[![An image of @adityap700's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityap700)](https://holopin.io/@adityap700)
+
+
+
+### 📊 Contribution Metrics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityap700&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+  
+  [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2023-orange?style=for-the-badge&logo=digitalocean)](https://hacktoberfest.com/)
+  [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=open-source-initiative)](https://github.com/adityap700)
+  [![Active Contributor](https://img.shields.io/badge/Active-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/adityap700)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks:
