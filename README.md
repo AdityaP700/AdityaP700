@@ -60,6 +60,7 @@ me.say_hi()
   [![Active Contributor](https://img.shields.io/badge/Active-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/adityap700)
   
 </div>
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks:
