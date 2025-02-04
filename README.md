@@ -50,11 +50,9 @@ me.say_hi()
 
 
 ### 📊 Contribution Metrics
+
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityap700&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
   [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-orange?style=for-the-badge&logo=digitalocean)](https://hacktoberfest.com/)
   [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=open-source-initiative)](https://github.com/adityap700)
   [![Active Contributor](https://img.shields.io/badge/Active-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/adityap700)
