@@ -23,7 +23,7 @@ class SoftwareDeveloper:
         print("Thanks for dropping by! Let's craft something amazing together!")
 
 me = SoftwareDeveloper()
-me.say_hi()
+me.say_hello()
 ```
 
 ### 🎯 Quick Facts
