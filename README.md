@@ -101,6 +101,7 @@ me.say_hello()
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
+
 ## 🔥 Pull Request Stats
 
 <div align="center">
