@@ -1,126 +1,232 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+AdityaP700;A+Passionate+Software+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG">
+  
+  # 🚀 Welcome to My Digital Workshop
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Pattanayak;Full+Stack+Developer+%26+Product+Builder;Turning+Ideas+into+Products+%F0%9F%9A%80" alt="Typing SVG">
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=adityap700&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/adityap700?label=Followers&style=for-the-badge&color=6366F1" alt="followers" />
+    <img src="https://img.shields.io/github/stars/adityap700?label=Stars&style=for-the-badge&color=6366F1" alt="stars" />
+  </p>
+
 </div>
 
-[![Visits](https://komarev.com/ghpvc/?username=adityap700&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AdityaP700)
-[![Twitter](https://img.shields.io/twitter/follow/adityapat_?style=social)](https://twitter.com/adityapat_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-pattanayak-6b303b267)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/aditya_texz/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/Adi_texg)
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 👨‍💻 About Me
 
-```python
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Aditya Pattanayak"
-        self.role = "Software Developer"
-        self.location = "India 🇮🇳"
-        self.learning = ["Python 🐍", "Ruby on Rails 🛤️"]
-        self.interests = ["Open Source 🌟", "Web Development 🌐", "GSoC 🚀"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's craft something amazing together!")
+```javascript
+class ProductBuilder {
+  constructor() {
+    this.name = "Aditya Pattanayak";
+    this.role = "Full Stack Developer & Product Builder";
+    this.location = "India 🇮🇳";
+    this.specialization = ["MERN Stack", "GenAI", "UI/UX Design"];
+    this.building = ["MVPs", "Hackathon Projects", "AI Applications"];
+    this.learning = ["Python 🐍", "Web3 🛤️", "Agentic AI"];
+  }
+  
+  buildProduct(idea) {
+    const steps = [
+      "Design Beautiful UI/UX 🎨",
+      "Develop Full Stack App 💻",
+      "Integrate AI Features 🤖",
+      "Deploy & Deliver 🚀"
+    ];
+    return `${idea} → Production Ready Product ✨`;
+  }
+}
 
-me = SoftwareDeveloper()
-me.say_hello()
+const aditya = new ProductBuilder();
+console.log("⚡ I ship products, not just code!");
 ```
 
-### 🎯 Quick Facts
+<div align="center">
 
-- 🔭 I'm currently working on **building my development skills**
-- 🌱 Learning the magic of **Python** and **Ruby on Rails** 
-- 💡 Aspiring to contribute to **Google Summer of Code**
-- 🌐 Exploring the vast world of **Web Development**
-- 🎮 When I'm not coding, you'll find me **hibernating like a polar bear** 🐻‍❄️
-- 🤝 Open to collaborating on **interesting projects**
+### 🎯 What I Do Best
 
-### 📫 Let's Connect!
+</div>
+
+```diff
++ 🏗️ Build complete MERN stack applications from scratch
++ 🎨 Design intuitive UI/UX for MVPs and products
++ 🤖 Integrate GenAI features into applications
++ 🏆 Participate in hackathons and ship fast
++ 🚀 Turn ideas into production-ready products
++ 🌟 Contribute to open-source projects
++ 📚 Currently exploring Web3 and blockchain
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & Emerging Tech
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityap700&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityap700&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityap700&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+
+[![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-6366F1?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/adityap700)
+[![Product Builder](https://img.shields.io/badge/Product-Builder-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/adityap700)
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityap700&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityap700&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy Showcase" />
+</div>
+
+---
+
+## 💼 Work Style & Productive Hours
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityap700&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityap700&theme=github_dark" alt="Profile Details" />
+</div>
+
+---
+
+## 🎯 What I'm Currently Up To
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🔥 Building
+- Full Stack MERN Applications
+- GenAI Powered Tools
+- UI/UX for MVPs
+- Hackathon Projects
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Learning
+- Advanced Python & AI
+- Web3 & Solana Development
+- System Design
+- DSA (LeetCode/Codeforces)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 Open to Collaborate On
+
+```
+🔹 Hackathon Projects
+🔹 Full Stack Applications (MERN)
+🔹 GenAI Integration Projects
+🔹 Open Source Contributions
+🔹 UI/UX Design for MVPs
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<p>
+  <a href="https://twitter.com/adityapat_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-pattanayak-6b303b267">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/aditya_texz/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Adi_texg">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 <p>
   <a href="mailto:adityaa32078@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://discord.com/users/aditya0077060">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
----
-
-
-### 📊 Contribution Metrics
-
-<div align="center">
-  
-  [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-orange?style=for-the-badge&logo=digitalocean)](https://hacktoberfest.com/)
-  [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=open-source-initiative)](https://github.com/adityap700)
-  [![Active Contributor](https://img.shields.io/badge/Active-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/adityap700)
-  
-</div>
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityap700&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityap700&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📈 Contribution Graph & Activities
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityap700&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
-## 🔥 Pull Request Stats
+### 💭 Developer Wisdom
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityap700&theme=radical" alt="PR Activity Graph" />
-</div>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/adityapat_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-pattanayak-6b303b267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityap700&theme=radical&row=1" alt="Trophy Showcase" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=28&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
+
+**⚡ "Ideas are easy. Implementation is everything." ⚡**
+
 </div>
