@@ -139,6 +139,7 @@ console.log("⚡ I ship products, not just code!");
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityap700&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityap700&theme=github_dark" alt="Profile Details" />
 </div>
 
