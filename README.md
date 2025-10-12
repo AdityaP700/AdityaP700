@@ -117,7 +117,7 @@ console.log("⚡ I ship products, not just code!");
 
 <div align="center">
 
-[![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+[![An image of @adityap700's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityap700)](https://holopin.io/@adityap700)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-6366F1?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/adityap700)
 [![Product Builder](https://img.shields.io/badge/Product-Builder-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/adityap700)
 
