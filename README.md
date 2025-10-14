@@ -16,36 +16,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-class ProductBuilder {
-  constructor() {
-    this.name = "Aditya Pattanayak";
-    this.role = "Full Stack Developer & Product Builder";
-    this.location = "India 🇮🇳";
-    this.specialization = ["MERN Stack", "GenAI", "UI/UX Design"];
-    this.building = ["MVPs", "Hackathon Projects", "AI Applications"];
-    this.learning = ["Python 🐍", "Web3 🛤️", "Agentic AI"];
-  }
-  
-  buildProduct(idea) {
-    const steps = [
-      "Design Beautiful UI/UX 🎨",
-      "Develop Full Stack App 💻",
-      "Integrate AI Features 🤖",
-      "Deploy & Deliver 🚀"
-    ];
-    return `${idea} → Production Ready Product ✨`;
-  }
-}
-
-const aditya = new ProductBuilder();
-console.log("⚡ I ship products, not just code!");
-```
-
-<div align="center">
-
-### 🎯 What I Do Best
-
 </div>
 
 ```diff
