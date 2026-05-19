@@ -5,13 +5,13 @@
 # Aditya Pattanayak
 
 Full-stack developer
-I build systems from scratch -> idea to deployment -> focusing on real-world usability, performance, and clean architecture.
+I build systems from scratch/vibe-code -> idea to deployment -> focusing on real-world usability, performance, and clean architecture.
 
 ---
 
-## 🚀 Selected Work
+##  Selected Work
 
-- **[Exora](https://exora-task.vercel.app/)** - 11 ⭐  
+- **[Exora](https://exora-task.vercel.app/)**  
   Real-time competitive intelligence engine  
   → Multi-LLM pipelines · SSE streaming · BYOK architecture
 
@@ -25,29 +25,15 @@ I build systems from scratch -> idea to deployment -> focusing on real-world usa
 
 - **[URLGuard](https://github.com/AdityaP700/URLGuard)**  
   Security-focused URL analysis & detection system
-
 ---
-
-## 🏆 Wins
-
-- 🥇 EthMumbai - Double Track Winner (PayGate)
-- 🥉 IIT KGP - Top 3, National Finalist
-- 🏅 IIT Bombay - Top 5 / 156 teams
-- 🏅 Amplicode Hack - Runner-up, Privacy & Security track
-
----
-
 ## 🔨 Currently Building
 
 DevOps → Kubernetes → AI infra roadmap  
 (Docker · Terraform · Go · vLLM deployment)
 
 Open to internships: AI infra · backend · DevOps
-
 ---
-
-## ⚙️ Stack
-
+##  Stack
 **Core:** TypeScript · Next.js · Python · Solana · Docker  
 **Also:** Rust · PostgreSQL · MongoDB · LLM APIs
 
