@@ -5,8 +5,8 @@
 # Aditya Pattanayak
 
 Full-stack developer
-I build systems from scratch/vibe-code -> idea to deployment -> focusing on real-world usability, performance, and clean architecture.
 
+find a problem -> brainstorm for a solution -> build/try n break -> deploy -> optimize -> repeat
 ---
 
 ##  Selected Work
@@ -18,7 +18,7 @@ I build systems from scratch/vibe-code -> idea to deployment -> focusing on real
 - **[SplitMate](https://split-mate-43.vercel.app/)**  
   On-chain bill splitting with real-time sync  
   → Solana smart contracts · Socket.io · AI validation
-
+  
 - **[Shinobi](https://github.com/AdityaP700/shinobi)**  
   High-performance CLI for Solana NFT & wallet analysis  
   → Rust · RPC · terminal-based forensic reports
@@ -26,22 +26,25 @@ I build systems from scratch/vibe-code -> idea to deployment -> focusing on real
 - **[URLGuard](https://github.com/AdityaP700/URLGuard)**  
   Security-focused URL analysis & detection system
 ---
-## 🔨 Currently Building
+## Tech Stack
 
-DevOps → Kubernetes → AI infra roadmap  
-(Docker · Terraform · Go · vLLM deployment)
+<div align="left">
+
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Python](https://skillicons.dev/icons?i=python)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Solana](https://skillicons.dev/icons?i=solana)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 Open to internships: AI infra · backend · DevOps
----
-##  Stack
-**Core:** TypeScript · Next.js · Python · Solana · Docker  
-**Also:** Rust · PostgreSQL · MongoDB · LLM APIs
-
----
 
 ## 📫 Contact
 
-Email: adityaa32078@gmail.com · X: [@AdityaPat_](https://x.com/AdityaPat_)
+- Email: adityaa32078@gmail.com 
+- X: [@AdityaPat_](https://x.com/AdityaPat_)
 
 ---
 
