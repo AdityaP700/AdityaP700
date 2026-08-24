@@ -21,6 +21,7 @@ AI systems and full-stack developer. I build things that actually work , retriev
 | | Project | What it does |
 |---|---|---|
 | `RAG` | **[Tokaroo](https://github.com/AdityaP700/Tokaroo)** | Adaptive RAG evaluator - retrieval failure analysis, BM25 + cross-encoder reranking, context compression |
+| `AI` | **[Aegis](https://github.com/AdityaP700/Aegis)** | AI Agent Reliability Runtime - middleware enforcing capability, arg & confidence checks with OTEL tracing |
 | `LLM` | **[Exora](https://exora-task.vercel.app/)** | Real-time competitive intelligence engine - multi-LLM pipelines, SSE streaming, BYOK architecture |
 | `ML` | **[URLGuard](https://github.com/AdityaP700/URLGuard)** | On-device phishing detector - TF.js model, 16 lexical features, homograph detection, 88.8% accuracy · 13th / 925 at Amplicode |
 | `ML` | **[ChunkdUp](https://github.com/AdityaP700/ChunkdUp)** | Chunking strategy explorer - how LLMs process and retrieve context, without abstraction layers |
